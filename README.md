@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @K8fractal. I've been teaching computer science to middle schoolers for 10 years.
+- 👋 Hi, I’m @K8fractal. I've been teaching computer science to middle schoolers for 10 years, and I'm looking for a software engineering position.
 - 👀 I’m interested in getting more involved in open source programming.
-- 🌱 I’m currently learning how to use github again. (Has it changed in the last 3-4 years?)
+- 🌱 I'm refreshing and expending my programming skills.
 - 💞️ I’m looking to collaborate on educational and design projects.
 
 <!---
